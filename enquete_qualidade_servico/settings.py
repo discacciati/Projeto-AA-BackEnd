@@ -45,7 +45,6 @@ DJANGO_APPS = [
 
 MY_APPS =[ "polls.apps.PollsConfig", ]
 
-
 THIRD_PARTY_APPS = ['rest_framework', 'rest_framework.authtoken']
 
 
